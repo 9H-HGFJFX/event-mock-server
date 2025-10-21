@@ -1,4 +1,4 @@
-echo '{
+{
   "events": [
     {
       "id": 5928101,
@@ -32,17 +32,6 @@ echo '{
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
-    },
-    {
-      "id": 1000001,
-      "category": "education",
-      "title": "Free Coding Workshop",
-      "description": "Learn HTML, CSS and JavaScript basics.",
-      "location": "Tech Hub",
-      "date": "November 5, 2022",
-      "time": "14:00",
-      "petsAllowed": false,
-      "organizer": "Code Masters"
     }
   ]
-}' > db.json
+}
